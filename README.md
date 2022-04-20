@@ -1,0 +1,2 @@
+# Miejscowosci
+WIP, wytwórnia miejscowości
